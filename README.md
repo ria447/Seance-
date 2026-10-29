@@ -1,4 +1,4 @@
-# 🕯️Seance-
+# 🕯️Seance
 
 Built for the Hacktoberfest Open-Source AI Challenge, Week 4: Ghost in the Machine.
 
